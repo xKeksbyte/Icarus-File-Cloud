@@ -1,7 +1,7 @@
 [
 {
     "date": "5th of July 2020",
-    "added": ["Hypixel Fly", "LNCP Step - Work in Progress", "Intave Velocity", "Intave AutoBlock"], 
+    "added": ["LNCP Step - Work in Progress", "Intave Velocity", "Intave AutoBlock"], 
     "removed": ["memes"],
     "changed": [
 	  "Improved Speed for some Servers", "Fixed Cubecraft Fly Autobans", "Made Early hit toggleable in KillAura", "New 1337 Scaffoldwalk which is actually really good now", "KillAura Improvements - Intave excspecially",
