@@ -1,0 +1,223 @@
+[
+{
+    "date": "5th of July 2020",
+    "added": ["Hypixel Fly", "LNCP Step - Work in Progress", "Intave Velocity", "Intave AutoBlock"], 
+    "removed": ["memes"],
+    "changed": [
+	  "Improved Speed for some Servers", "Fixed Cubecraft Fly Autobans", "Made Early hit toggleable in KillAura", "New 1337 Scaffoldwalk which is actually really good now", "KillAura Improvements - Intave excspecially",
+	  "Fixed Gomme KillAura", "Fixed KillAura trying to block with axes", "Improved Performance of Nametags -ALOT-", "Fixed High CPU Usage"
+	]
+  },
+{
+    "date": "2nd of July 2020",
+    "added": ["Speed Graph got added under HUD"], 
+    "removed": [""],
+    "changed": [
+	  "Moved all Cubecraft Flys to modes", "Criticals autobanning after our values got patched - fixed"
+	]
+  },
+{
+    "date": "29h June 2020",
+    "added": ["Cubecraft Bhop", "Cubecraft 'Retarded' Speed Mode", "Longjump", "Custom Method for KillAura for early hits on enemys - Hits through tiny holes etc."], 
+    "removed": [""],
+    "changed": [
+	  "Fixed Mineplex Speed Flags", "Fixed Hypixel Speed Flags", "Changed Cubecraft Speed to have modes now (3 Modes)"
+	]
+  },
+{
+    "date": "26th June 2020",
+    "added": ["Redesky Fly (Hypixel right now)", "Cubecraft Insane Fly (VERY EXPERIMENTAL)"], 
+    "removed": [""],
+    "changed": [
+	  "Nearly all Configs got updated"
+	]
+  },
+{
+    "date": "25th June 2020",
+    "added": ["Hypixel AutoBlock", "NCP Jump Jesus", "TheAltening generate Button in Disonnect Menu", "Hypixel Nofall Mode"], 
+    "removed": [""],
+    "changed": [
+	  "Fixed Cubecraft Autobans regarding fly (Slow mode can still autoban)"
+	]
+  },
+{
+    "date": "24th June 2020",
+    "added": ["minemen.club Config", "Hypixel Speed"], 
+    "removed": [""],
+    "changed": [
+	  "Improved KillAura Rotiations", "Heavily improved killaura randomization", "Fixed Hypixel Autobans", "Bypassed minemen.club", "Improved Cubecraft_Best Fly", "Fixed Noslowdown 'Packet' Mode not letting you eat", "Fixed Configs/Server",
+	  "Updated Gomme Config", "Fixed Mineplex AutoBans"
+	]
+  },
+{
+    "date": "23th June 2020",
+    "added": ["CubecraftBestFast", "CubecraftBestSlow (experimental)", "AAC4 Config"], 
+    "removed": [""],
+    "changed": [
+	  "CubecraftBest now works infinite while hitting players!", "CubecraftBest has two modes now to make it more controllable", "Minor KillAura Updates to bypass AAC4 / Gnome", "Fixed Correct Movement flagging when jumping"
+	]
+  },
+{
+    "date": "22th June 2020",
+    "added": ["KillAura Smoothing (Pitch/Yaw)", "Packet Noslowdown (Option)", "Mineplex Config", "HiveMC Config", "Vanilla Nofall for Servers like Mineplex (lmao)", "Custom Nofall Mode"], 
+    "removed": ["Depressionen von haze"],
+    "changed": [
+	  "AntiBot Fixed and actually work now - still work in progress", "TheAltening Support got waaay better(Token Support) - Still work in Progress", "AutoClick Detection fixed in KillAura"
+	, "Fixed/Changed AltManager", "Improved KillAura rotations", "Improved Scaffoldwalk alot - More to come! :)", "Fixed Midair Slowdown", "Fixed ESP 'Normal' Color Picker", "Changed Rotation set Method (If you get any flags report it)"
+	, "Updated Other Configs", "Changed Github Issue Tracker (Report your Bugs there)", "fixed Font renderer Y offset"
+	]
+  },
+{
+    "date": "20th June 2020",
+    "added": ["AutoBlock Rate", "Custom Velocity", "Mineplex Speed"], 
+    "removed": ["nothing"],
+    "changed": [
+	  "Hurttime in KillAura lets you switch between Targets", "Config Update"
+	]
+  },
+{
+    "date": "19th June 2020",
+    "added": ["Cubecraft Fly", "Cubecraft LowHop", "CubeCraft Criticals", "More KillAura Configuration", "TheAltening Support"], 
+    "removed": ["nothing"],
+    "changed": [
+	  "New Icarus Developer :)", "Fixed Tower", "Improved AutoBlock ALOT",
+	  "Fixed KillAura AutoBanning", 
+	  "KillAura KeepSprint Bypasses now" 
+	]
+  },
+{
+    "date": "3rd May 2020",
+    "added": ["Trashtalk function in Spammer", "AltManager saving position for last Alt", "Configs for Hypixel, MC-Central", "NightMode module", "Sprinting option for NoSlowDown"],
+    "removed": ["some hurensoehne from the easteregg"],
+    "changed": [
+	  "NCP/Vanilla Velocity Hypixel",
+	  "AutoBlock now doing blocking (kek)",
+	  "LowHop bug fix",
+	  "Fixed Macros",
+	  "Cubecraft glide Autobanning (Improved alot (again))",
+	  "Fixed criticals not showing particles most of the time",
+	  "Tower is now actually placing blocks keppo",
+	  "InventoryTweaks won't have any duplicates anymore",
+	  "MovementIndicator is now a HUD Option",
+	  "ChestAura won't open multiple chests at onetime anymore",
+	  "ChestAura through walls isn't inverted anymore",
+	  "ChestStealer is now a little bit better (still buggy for some things)",
+	  "Known Bug: Gomme Config",
+	  "PingSpoof is now actually spoofing your ping kekonaut"
+	]
+  },
+
+{
+    "date": "6th May 2020",
+    "added": [".vclip Command","TargetESP","Vertical Through Walls Range option"], 
+    "removed": ["nothing lul"],
+    "changed": [
+	  "Moved KillAura 'ESP' mode to an standalone Module", "Fixed ChestStealer",
+	  "Started working on better InventoryTweaks handling", 
+	  "Dont use LowHop on Cubecraft it seems to autoban now" , "Trashtalk is not working correctly" , "Keybinds/Module states not saving corretly is now fixed. - I hope lmao" , "Tower is now completly broken omegalul" , "Alt Manager Mojang IP Ban fixes" 
+	]
+  },
+{
+    "date": "3rd May 2020",
+    "added": ["Trashtalk function in Spammer", "AltManager saving position for last Alt", "Configs for Hypixel, MC-Central", "NightMode module", "Sprinting option for NoSlowDown"],
+    "removed": ["some hurensoehne from the easteregg"],
+    "changed": [
+	  "NCP/Vanilla Velocity Hypixel",
+	  "AutoBlock now doing blocking (kek)",
+	  "LowHop bug fix",
+	  "Fixed Macros",
+	  "Cubecraft glide Autobanning (Improved alot (again))",
+	  "Fixed criticals not showing particles most of the time",
+	  "Tower is now actually placing blocks keppo",
+	  "InventoryTweaks won't have any duplicates anymore",
+	  "MovementIndicator is now a HUD Option",
+	  "ChestAura won't open multiple chests at onetime anymore",
+	  "ChestAura through walls isn't inverted anymore",
+	  "ChestStealer is now a little bit better (still buggy for some things)",
+	  "Known Bug: Gomme Config",
+	  "PingSpoof is now actually spoofing your ping kekonaut"
+	]
+  },
+
+{
+    "date": "1st May 2020",
+    "added": [],
+    "removed": [],
+    "changed": [
+	  "CubeCraft Glide shouldn't ban anymore",
+	  "CubeCraft Bhop stops now after falling a longer distance to prevent setbacks"
+	]
+  },
+{
+    "date": "30th April 2020",
+    "added": [
+	  "New Cubecraft Bhop",
+	  "CubeCraft No-Down Glide (NOT RECOMMENDED)"
+	],
+    "removed": [],
+    "changed": [
+	  "Several bug fixes for multiple Modules"
+	]
+  },
+	{
+    "date": "22nd April 2020",
+    "added": [
+	  "2 New CubeCraft Speeds",
+	  "CubeCraft Glide",
+	  "Tower"
+	],
+    "removed": [],
+    "changed": [
+	  "ChestAura bugfix"
+	]
+  },
+	{
+    "date": "18th April 2020",
+    "added": [
+	  "New CubeCraft BHop"
+	],
+    "removed": [
+	  "Not working CubeCraft speeds",
+	  "Unnecessary KillAura settings"
+	],
+    "changed": [
+	  "BoatFly Trajectory will now show correctly where you will fly towards",
+	  "ShaderESP wont outline vanilla nametags",
+	  "InventoryTweaks bug fixed",
+	  "ChestStealer bug fixed",
+	  "Fixed a bug with selecting alts from a file (won't crash anylonger)",
+	  "Speed BugFix",
+	  "KillAura BugFix"
+	]
+  },
+  {
+    "date": "16th April 2020",
+    "added": [
+      "New Configs",
+      "New Scaffold Mode",
+	  "Silent KillAura for AAC",
+	  
+    ],
+    "removed": [],
+    "changed": [
+	  "BoatFly won't boost you in the air that much as it did before",
+	  "Fixed a bug with sprinting"
+	]
+  },
+  {
+    "date": "14th April 2020",
+    "added": [
+      "Changelog",
+      "MC-Central Glide",
+      "MC-Central Speed",
+      "CubeCraft Glide",
+      "2D Nametags",
+      "ProxyManager"
+    ],
+    "removed": [],
+    "changed": [
+      "BedFucker isn\u0027t only for beds anymore",
+	  "Nametags has now the options 'Show health' and 'Show name'"
+    ]
+  }
+]
