@@ -1,6 +1,14 @@
 [
 {
     "date": "5th of July 2020",
+    "added": ["Smarblock (Could make the killaura bad)], 
+    "removed": ["memes"],
+    "changed": [
+	  "Improved Velocity", "Fixed some flags that could cause that you do no damage"
+	]
+  },
+{
+    "date": "5th of July 2020",
     "added": ["LNCP Step - Work in Progress", "Intave Velocity", "Intave AutoBlock"], 
     "removed": ["memes"],
     "changed": [
