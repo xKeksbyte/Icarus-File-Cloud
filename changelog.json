@@ -1,10 +1,10 @@
 [
 {
     "date": "5th of July 2020",
-    "added": ["Smarblock (Could make the killaura bad)"], 
-    "removed": ["memes"],
+    "added": ["Smarblock (Could make the killaura bad)", "+ Force Block at Health"], 
+    "removed": ["nothing"],
     "changed": [
-	  "Improved Velocity", "Fixed some flags that could cause that you do no damage"
+	  "Improved Intave Velocity", "Fixed some flags that could cause that you do no damage (If you do no damage, Try to disable velocity for some hits)"
 	]
   },
 {
