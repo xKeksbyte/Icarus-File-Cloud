@@ -1,7 +1,7 @@
 [
 {
     "date": "9th of July 2020",
-    "added": ["Prediction modes (Minecraft, Custom)", "Sensitivity fix toggleable", "Pingspoof-Packet loss", "intave scaffold (patched?)", "Custom chestesp (Customizeable color, alphacity etc)"],
+    "added": ["Prediction modes (Minecraft, Custom)", "Sensitivity fix toggleable", "Pingspoof-Packet loss", "intave scaffold (patched?)", "Custom chestesp (Customizeable color, alpha etc)"],
     "removed": ["nothing"],
     "changed": [
 	  "Fixed particle lag","made Sensitivity fix toggleable", "Improved intave velocity", "Improved Killaura-Rotations", "Re-wrote rotation randomize system", "Decreased intave flags", "Improved autoblock", "Fixed scaffoldwalk sprinting even when sprinting is disabled", "Fixed autobans on cubecraft again (Nice cubecraft dev's, fix values)", "Updated gomme config", "Fixed Killaura-rotations cocking around when the target jumps out of the range", "Fixed criticals showing crack options when not selected", "Fixed scaffold/tower trying to place chest's etc", "Killaura on hive is now fucking P XD", "Fixed NCP step :^)", "improved scaffold"
