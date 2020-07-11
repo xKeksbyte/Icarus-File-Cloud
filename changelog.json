@@ -1,5 +1,13 @@
 [
 {
+    "date": "11th of July 2020",
+    "added": ["Added push to block velocity"],
+    "removed": ["nothing"],
+    "changed": [
+	  "Fixed hotbar autoarmor cocking around","re-wrote the killaura attacking method.", "Improved gomme config"
+	]
+  },
+{
     "date": "9th of July 2020",
     "added": ["Prediction modes (Minecraft, Custom)", "Sensitivity fix toggleable", "Pingspoof-Packet loss", "intave scaffold (patched?)", "Custom chestesp (Customizeable color, alpha etc)"],
     "removed": ["nothing"],
