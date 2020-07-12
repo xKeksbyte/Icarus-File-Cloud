@@ -1,5 +1,13 @@
 [
 {
+    "date": "12th of July 2020",
+    "added": ["Added Target-Srafe to speed."],
+    "removed": ["nothing"],
+    "changed": [
+	  "Fixed Killaura not respecting CPS (hits 24/7 at 20cps, fixed)","And some other changes i dont remember"
+	]
+  },
+{
     "date": "11th of July 2020",
     "added": ["Added push to block velocity"],
     "removed": ["nothing"],
