@@ -955,7 +955,7 @@
       "valueType": "BOOLEAN"
     },
     {
-      "value": true,
+      "value": false,
       "name": "Correct Movement",
       "condition": {},
       "valueType": "BOOLEAN"
