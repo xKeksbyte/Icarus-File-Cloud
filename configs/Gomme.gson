@@ -781,7 +781,7 @@
       "valueType": "INT"
     },
     {
-      "value": 3.73,
+      "value": 3.7,
       "min": 0.1,
       "max": 6.0,
       "step": 0.05,
