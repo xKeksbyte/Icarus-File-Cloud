@@ -1,10 +1,30 @@
 [
 {
-    "date": "12th of July 2020",
-    "added": ["Added Target-Srafe to speed."],
+    "date": "21th of July 2020",
+    "added": ["Added in noslowdown Air & ground speed / fixed sprint bug"],
     "removed": ["nothing"],
     "changed": [
-	  "Fixed Killaura not respecting CPS (hits 24/7 at 20cps, fixed)","And some other changes i dont remember"
+	  "Improved scaffold",
+	  "Fixed chestaura trying to open chests in combat",
+	  "Changed cubecraft insane fly",
+	  "Improved hypixel speed",
+	  "Added fast hive-lowhop",
+	  "Improved hypixel scaffold",
+	  "Fixed step trying to step at half slabs",
+	  "Added cubecraft damage fly",
+	  "Fixed cubecraft kys fly",
+	  "Improved cubecraft speed",
+	  "Improved general cubecraft shit",
+	  "Fixed retarded gommehd movement flags after anticheat update",
+	  "Fixed scaffold front-offset rotations",
+	  "Recoded scaffold",
+	  "Made some killaura changes",
+	  "Fixed inventory-tweaks",
+	  "Fixed autoarmor randomly getting aids",
+	  "Fixed minecraft bug, world loads now instantly",
+	  "Fixed minecraft bug, decreased cpu usage on world load (by about 20%)",
+	  "Fixed minecraft bug, that caused a delay bug in block-placement",
+	  "Vypassed intave autoblock aswell for aac"
 	]
   },
 {
