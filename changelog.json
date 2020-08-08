@@ -6,7 +6,6 @@
     "changed": [
 	  "Improved scaffold",
 	  "Fixed intave autoblock",
-	  "Changed cubecraft insane fly",
 	  "DO NOT USE GOMME CONFIG ON GOMMEQSG (there are too much legit flags, so icarus doesn't bypass it tho lol)",
 	  "Known bugs:",
 	  "in the clickgui, after scrolling the check-boxes are still clickable even when they aren't visible"
