@@ -1,5 +1,18 @@
 [
 {
+    "date": "8th of Aug 2020",
+    "added": ["Added some new scaffold settings when using sprint"],
+    "removed": ["nothing"],
+    "changed": [
+	  "Improved scaffold",
+	  "Fixed intave autoblock",
+	  "Changed cubecraft insane fly",
+	  "DO NOT USE GOMME CONFIG ON GOMMEQSG (there are too much legit flags, so icarus doesn't bypass it tho lol)",
+	  "Known bugs:",
+	  "in the clickgui, after scrolling the check-boxes are still clickable even when they aren't visible"
+	]
+  },
+{
     "date": "21th of July 2020",
     "added": ["Added in noslowdown Air & ground speed / fixed sprint bug"],
     "removed": ["nothing"],
