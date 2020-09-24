@@ -11,6 +11,23 @@
       "valueType": "INT"
     }
   ],
+  "Fastbreak": [
+    {
+      "value": false,
+      "name": "toggled",
+      "valueType": "BOOLEAN"
+    },
+    {
+      "value": 0,
+      "name": "keybind",
+      "valueType": "INT"
+    },
+    {
+      "value": "NEW",
+      "name": "Fastbreaik Mode",
+      "valueType": "ENUM"
+    }
+  ],
   "NoFriends": [
     {
       "value": false,
@@ -74,7 +91,7 @@
       "valueType": "INT"
     },
     {
-      "value": "CUBECRAFT",
+      "value": "NCP",
       "name": "Crit Mode",
       "valueType": "ENUM"
     }
@@ -86,7 +103,7 @@
       "valueType": "BOOLEAN"
     },
     {
-      "value": 36,
+      "value": 0,
       "name": "keybind",
       "valueType": "INT"
     }
@@ -148,30 +165,6 @@
       "valueType": "INT"
     }
   ],
-  "Corona": [
-    {
-      "value": false,
-      "name": "toggled",
-      "valueType": "BOOLEAN"
-    },
-    {
-      "value": 0,
-      "name": "keybind",
-      "valueType": "INT"
-    }
-  ],
-  "FullBright": [
-    {
-      "value": false,
-      "name": "toggled",
-      "valueType": "BOOLEAN"
-    },
-    {
-      "value": 0,
-      "name": "keybind",
-      "valueType": "INT"
-    }
-  ],
   "Gui": [
     {
       "value": false,
@@ -190,6 +183,30 @@
       },
       "name": "GUI Color",
       "valueType": "COLOR"
+    }
+  ],
+  "FullBright": [
+    {
+      "value": false,
+      "name": "toggled",
+      "valueType": "BOOLEAN"
+    },
+    {
+      "value": 0,
+      "name": "keybind",
+      "valueType": "INT"
+    }
+  ],
+  "Corona": [
+    {
+      "value": false,
+      "name": "toggled",
+      "valueType": "BOOLEAN"
+    },
+    {
+      "value": 0,
+      "name": "keybind",
+      "valueType": "INT"
     }
   ],
   "InstantUse": [
@@ -244,36 +261,6 @@
       "valueType": "INT"
     }
   ],
-  "BowAimbot": [
-    {
-      "value": true,
-      "name": "toggled",
-      "valueType": "BOOLEAN"
-    },
-    {
-      "value": 0,
-      "name": "keybind",
-      "valueType": "INT"
-    },
-    {
-      "value": 60.0,
-      "min": 0.1,
-      "max": 60.0,
-      "step": 1.0,
-      "name": "Range",
-      "valueType": "DOUBLE"
-    },
-    {
-      "value": true,
-      "name": "Silent",
-      "valueType": "BOOLEAN"
-    },
-    {
-      "value": "PLAYER",
-      "name": "Targets",
-      "valueType": "ENUM"
-    }
-  ],
   "Glide": [
     {
       "value": false,
@@ -309,7 +296,37 @@
       "valueType": "BOOLEAN"
     }
   ],
-  "ModulesNotifications": [
+  "BowAimbot": [
+    {
+      "value": true,
+      "name": "toggled",
+      "valueType": "BOOLEAN"
+    },
+    {
+      "value": 0,
+      "name": "keybind",
+      "valueType": "INT"
+    },
+    {
+      "value": 60.0,
+      "min": 0.1,
+      "max": 60.0,
+      "step": 1.0,
+      "name": "Range",
+      "valueType": "DOUBLE"
+    },
+    {
+      "value": true,
+      "name": "Silent",
+      "valueType": "BOOLEAN"
+    },
+    {
+      "value": "PLAYER",
+      "name": "Targets",
+      "valueType": "ENUM"
+    }
+  ],
+  "FireJump": [
     {
       "value": false,
       "name": "toggled",
@@ -319,6 +336,19 @@
       "value": 0,
       "name": "keybind",
       "valueType": "INT"
+    },
+    {
+      "value": 5,
+      "min": 0,
+      "max": 10,
+      "step": 1,
+      "name": "Jump Time",
+      "valueType": "INT"
+    },
+    {
+      "value": false,
+      "name": "Other Damage",
+      "valueType": "BOOLEAN"
     }
   ],
   "Spammer": [
@@ -346,7 +376,7 @@
       "valueType": "BOOLEAN"
     }
   ],
-  "FireJump": [
+  "ModulesNotifications": [
     {
       "value": false,
       "name": "toggled",
@@ -356,19 +386,6 @@
       "value": 0,
       "name": "keybind",
       "valueType": "INT"
-    },
-    {
-      "value": 5,
-      "min": 0,
-      "max": 10,
-      "step": 1,
-      "name": "Jump Time",
-      "valueType": "INT"
-    },
-    {
-      "value": false,
-      "name": "Other Damage",
-      "valueType": "BOOLEAN"
     }
   ],
   "BoatFly": [
@@ -411,7 +428,7 @@
       "valueType": "INT"
     },
     {
-      "value": 16,
+      "value": 49,
       "min": 1,
       "max": 100,
       "step": 1,
@@ -426,7 +443,7 @@
       "valueType": "BOOLEAN"
     },
     {
-      "value": 0,
+      "value": 45,
       "name": "keybind",
       "valueType": "INT"
     }
@@ -470,7 +487,7 @@
       "valueType": "BOOLEAN"
     },
     {
-      "value": 0,
+      "value": 36,
       "name": "keybind",
       "valueType": "INT"
     },
@@ -480,7 +497,7 @@
       "valueType": "ENUM"
     },
     {
-      "value": true,
+      "value": false,
       "name": "On Ground Packets",
       "condition": {},
       "valueType": "BOOLEAN"
@@ -498,7 +515,7 @@
       "valueType": "BOOLEAN"
     },
     {
-      "value": 1.0344827,
+      "value": 3.5,
       "min": 0.0,
       "max": 15.0,
       "step": 0.5,
@@ -507,7 +524,7 @@
       "valueType": "FLOAT"
     },
     {
-      "value": 0,
+      "value": 85,
       "min": 0,
       "max": 1000,
       "step": 5,
@@ -664,6 +681,23 @@
       "valueType": "INT"
     }
   ],
+  "Derp": [
+    {
+      "value": false,
+      "name": "toggled",
+      "valueType": "BOOLEAN"
+    },
+    {
+      "value": 0,
+      "name": "keybind",
+      "valueType": "INT"
+    },
+    {
+      "value": "SKIN",
+      "name": "Derp Mode",
+      "valueType": "ENUM"
+    }
+  ],
   "Tracers": [
     {
       "value": false,
@@ -686,7 +720,7 @@
       "valueType": "BOOLEAN"
     }
   ],
-  "Derp": [
+  "Chams": [
     {
       "value": false,
       "name": "toggled",
@@ -698,8 +732,8 @@
       "valueType": "INT"
     },
     {
-      "value": "SKIN",
-      "name": "Derp Mode",
+      "value": "PLAYER",
+      "name": "Chams Targets",
       "valueType": "ENUM"
     }
   ],
@@ -723,7 +757,7 @@
       "valueType": "DOUBLE"
     },
     {
-      "value": 0.4,
+      "value": 0.0,
       "min": 0.0,
       "max": 2.0,
       "step": 0.1,
@@ -765,7 +799,7 @@
       "valueType": "INT"
     },
     {
-      "value": 32.0,
+      "value": 30.5,
       "min": 1.0,
       "max": 100.0,
       "step": 0.5,
@@ -788,7 +822,7 @@
       "valueType": "BOOLEAN"
     },
     {
-      "value": 100,
+      "value": 15,
       "min": 1,
       "max": 100,
       "step": 1,
@@ -797,7 +831,7 @@
       "valueType": "INT"
     },
     {
-      "value": 6.5,
+      "value": 2.0,
       "min": 0.5,
       "max": 10.0,
       "step": 0.5,
@@ -854,7 +888,7 @@
       "valueType": "BOOLEAN"
     },
     {
-      "value": false,
+      "value": true,
       "name": "Ray trace Target",
       "valueType": "BOOLEAN"
     },
@@ -905,7 +939,7 @@
       "valueType": "BOOLEAN"
     },
     {
-      "value": true,
+      "value": false,
       "name": "Auto Block",
       "valueType": "BOOLEAN"
     },
@@ -970,49 +1004,6 @@
       "valueType": "ENUM"
     }
   ],
-  "Chams": [
-    {
-      "value": false,
-      "name": "toggled",
-      "valueType": "BOOLEAN"
-    },
-    {
-      "value": 0,
-      "name": "keybind",
-      "valueType": "INT"
-    },
-    {
-      "value": "PLAYER",
-      "name": "Chams Targets",
-      "valueType": "ENUM"
-    }
-  ],
-  "Phase": [
-    {
-      "value": false,
-      "name": "toggled",
-      "valueType": "BOOLEAN"
-    },
-    {
-      "value": 0,
-      "name": "keybind",
-      "valueType": "INT"
-    },
-    {
-      "value": "CUBECRAFT_VERTICAL",
-      "name": "Mode",
-      "valueType": "ENUM"
-    },
-    {
-      "value": 5,
-      "min": 1,
-      "max": 10,
-      "step": 1,
-      "name": "Vertical Phase Height",
-      "condition": {},
-      "valueType": "INT"
-    }
-  ],
   "NoVelocity": [
     {
       "value": true,
@@ -1048,7 +1039,7 @@
       "valueType": "DOUBLE"
     },
     {
-      "value": 48,
+      "value": 20,
       "min": 20,
       "max": 100,
       "step": 1,
@@ -1057,11 +1048,49 @@
       "valueType": "INT"
     },
     {
-      "value": 53,
+      "value": 99,
       "min": 20,
       "max": 100,
       "step": 1,
       "name": "Push back to block chance (%)",
+      "condition": {},
+      "valueType": "INT"
+    },
+    {
+      "value": true,
+      "name": "QSG fix lmao",
+      "condition": {},
+      "valueType": "BOOLEAN"
+    },
+    {
+      "value": "LATEST",
+      "name": "Mode",
+      "condition": {},
+      "valueType": "ENUM"
+    }
+  ],
+  "Phase": [
+    {
+      "value": false,
+      "name": "toggled",
+      "valueType": "BOOLEAN"
+    },
+    {
+      "value": 0,
+      "name": "keybind",
+      "valueType": "INT"
+    },
+    {
+      "value": "CUBECRAFT_VERTICAL",
+      "name": "Mode",
+      "valueType": "ENUM"
+    },
+    {
+      "value": 5,
+      "min": 1,
+      "max": 10,
+      "step": 1,
+      "name": "Vertical Phase Height",
       "condition": {},
       "valueType": "INT"
     }
@@ -1188,18 +1217,6 @@
       "valueType": "ENUM"
     }
   ],
-  "AntiHunger": [
-    {
-      "value": false,
-      "name": "toggled",
-      "valueType": "BOOLEAN"
-    },
-    {
-      "value": 0,
-      "name": "keybind",
-      "valueType": "INT"
-    }
-  ],
   "Zoot": [
     {
       "value": false,
@@ -1217,6 +1234,18 @@
       "max": 100,
       "step": 1,
       "name": "Packet Amount",
+      "valueType": "INT"
+    }
+  ],
+  "AntiHunger": [
+    {
+      "value": false,
+      "name": "toggled",
+      "valueType": "BOOLEAN"
+    },
+    {
+      "value": 0,
+      "name": "keybind",
       "valueType": "INT"
     }
   ],
@@ -1252,18 +1281,6 @@
       "valueType": "FLOAT"
     }
   ],
-  "Paralyze": [
-    {
-      "value": false,
-      "name": "toggled",
-      "valueType": "BOOLEAN"
-    },
-    {
-      "value": 0,
-      "name": "keybind",
-      "valueType": "INT"
-    }
-  ],
   "Jesus": [
     {
       "value": false,
@@ -1279,6 +1296,18 @@
       "value": "VANILLA",
       "name": "Jesus Mode",
       "valueType": "ENUM"
+    }
+  ],
+  "Paralyze": [
+    {
+      "value": false,
+      "name": "toggled",
+      "valueType": "BOOLEAN"
+    },
+    {
+      "value": 0,
+      "name": "keybind",
+      "valueType": "INT"
     }
   ],
   "TrayIcon": [
@@ -1497,6 +1526,11 @@
       "valueType": "BOOLEAN"
     },
     {
+      "value": false,
+      "name": "LowHop",
+      "valueType": "BOOLEAN"
+    },
+    {
       "value": 0.98999995,
       "min": 0.1,
       "max": 1.0,
@@ -1507,6 +1541,11 @@
     {
       "value": false,
       "name": "Sprint",
+      "valueType": "BOOLEAN"
+    },
+    {
+      "value": false,
+      "name": "Fix Movement",
       "valueType": "BOOLEAN"
     },
     {
@@ -1588,7 +1627,7 @@
   ],
   "InventoryTweaks": [
     {
-      "value": true,
+      "value": false,
       "name": "toggled",
       "valueType": "BOOLEAN"
     },
@@ -1618,7 +1657,7 @@
   ],
   "ChestStealer": [
     {
-      "value": false,
+      "value": true,
       "name": "toggled",
       "valueType": "BOOLEAN"
     },
@@ -1628,7 +1667,7 @@
       "valueType": "INT"
     },
     {
-      "value": 99,
+      "value": 243,
       "min": 0,
       "max": 500,
       "step": 1,
@@ -1769,18 +1808,6 @@
       "valueType": "BOOLEAN"
     }
   ],
-  "BlockESP": [
-    {
-      "value": false,
-      "name": "toggled",
-      "valueType": "BOOLEAN"
-    },
-    {
-      "value": 0,
-      "name": "keybind",
-      "valueType": "INT"
-    }
-  ],
   "Blink": [
     {
       "value": false,
@@ -1793,6 +1820,35 @@
       "valueType": "INT"
     }
   ],
+  "BlockESP": [
+    {
+      "value": false,
+      "name": "toggled",
+      "valueType": "BOOLEAN"
+    },
+    {
+      "value": 0,
+      "name": "keybind",
+      "valueType": "INT"
+    }
+  ],
+  "AnticheatFucker": [
+    {
+      "value": false,
+      "name": "toggled",
+      "valueType": "BOOLEAN"
+    },
+    {
+      "value": 0,
+      "name": "keybind",
+      "valueType": "INT"
+    },
+    {
+      "value": "KEEPALIVE",
+      "name": "Kys Mode",
+      "valueType": "ENUM"
+    }
+  ],
   "NoBob": [
     {
       "value": false,
@@ -1803,6 +1859,23 @@
       "value": 0,
       "name": "keybind",
       "valueType": "INT"
+    }
+  ],
+  "Trajectories": [
+    {
+      "value": true,
+      "name": "toggled",
+      "valueType": "BOOLEAN"
+    },
+    {
+      "value": 0,
+      "name": "keybind",
+      "valueType": "INT"
+    },
+    {
+      "value": false,
+      "name": "Other Players",
+      "valueType": "BOOLEAN"
     }
   ],
   "FastPlace": [
@@ -1825,38 +1898,9 @@
       "valueType": "INT"
     }
   ],
-  "Trajectories": [
-    {
-      "value": true,
-      "name": "toggled",
-      "valueType": "BOOLEAN"
-    },
-    {
-      "value": 0,
-      "name": "keybind",
-      "valueType": "INT"
-    },
-    {
-      "value": false,
-      "name": "Other Players",
-      "valueType": "BOOLEAN"
-    }
-  ],
   "DashNames": [
     {
       "value": true,
-      "name": "toggled",
-      "valueType": "BOOLEAN"
-    },
-    {
-      "value": 0,
-      "name": "keybind",
-      "valueType": "INT"
-    }
-  ],
-  "Speedmine": [
-    {
-      "value": false,
       "name": "toggled",
       "valueType": "BOOLEAN"
     },
@@ -1904,7 +1948,7 @@
   ],
   "NoSlowdown": [
     {
-      "value": true,
+      "value": false,
       "name": "toggled",
       "valueType": "BOOLEAN"
     },
@@ -1944,7 +1988,7 @@
       "valueType": "BOOLEAN"
     },
     {
-      "value": 0.3,
+      "value": 1.0,
       "min": 0.0,
       "max": 1.0,
       "step": 0.05,
@@ -1952,7 +1996,7 @@
       "valueType": "FLOAT"
     },
     {
-      "value": 0.65000004,
+      "value": 1.0,
       "min": 0.0,
       "max": 1.0,
       "step": 0.05,
@@ -2128,7 +2172,7 @@
       "valueType": "BOOLEAN"
     },
     {
-      "value": true,
+      "value": false,
       "name": "Hotbar",
       "valueType": "BOOLEAN"
     },
