@@ -1,5 +1,24 @@
 [
 {
+    "date": "24th of Sep 2020 [Not released yet] eta: 19:00-24:00",
+    "added": ["Some scaffold settings", "Gomme autoblock (exp)", "Gomme nofall WIP"],
+    "removed": ["nothing"],
+    "changed": [
+	  "Made the killaura better",
+	  "Improved scaffold",
+	  "Recoded AAC v4, Intave velocity",
+	  "Changed NCP Criticals",
+	  "renamed speedmine & added mode NEW",
+	  "And more shit i dont remember",
+	  "Improved Intelligent Aim Setting [killaura]",
+	  "Fixed gomme scaffold",
+	  "Added to Intave mode: Intave-Latest & Intave legit friendly config",
+	  "Known bugs:",
+	  "in the clickgui, after scrolling the check-boxes are still clickable even when they aren't visible",
+	    "NEW COFINGS ARE COMING SOON! [CURRENT ARE OUTDATED]"
+	]
+  },
+{
     "date": "8th of Aug 2020",
     "added": ["Added some new scaffold settings when using sprint"],
     "removed": ["nothing"],
