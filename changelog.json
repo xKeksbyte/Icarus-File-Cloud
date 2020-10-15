@@ -1,4 +1,12 @@
 [
+	{
+    "date": "15th of OKT 2020",
+    "added": ["UPDATING TOMORROW CHANGELOG"],
+    "removed": ["nothing"],
+    "changed": [
+	  ""
+	]
+  },
 {
     "date": "24th of Sep 2020",
     "added": ["Some scaffold settings", "Gomme autoblock (exp)", "Gomme nofall WIP"],
