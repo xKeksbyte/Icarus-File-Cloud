@@ -12,7 +12,7 @@
 	  "Fixed killaura rotation randomization fucked up some hits & flagged sometimes for out of hitbox",
 	  "Fixed a potential crash issue when starting the client",
 	  "Fixed a random crash when using Lock-View aura",
-	  "Fixed bone selection "smart" causing some lags",
+	  "Fixed bone selection smart causing some lags",
 	  "Recoded killaura rotations",
 	  "fixed autobans on most servers",
 	  "Updated hypixel speed for the latest watchdog",
