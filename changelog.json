@@ -1,22 +1,14 @@
 [
 {
-    "date": "16th of OKT 2020",
-    "added": ["Intave jesus (works on gomme etc)", "2 new cubecraft flys"],
+    "date": "4th of NOV 2020",
+    "added": ["Calculate smoothness setting", "Prediction accuracy", "Longjump", "Acceleration fly mode"],
     "removed": ["nothing"],
     "changed": [
 	  "Improved Killaura",
-	  "Fixed cubecraft speed",
-	  "Fixed cubecraft autobans",
-	  "Fixed hypixel killaura",
-	  "Fixed killaura bone-aiming option, fixed head bone selection & fixed bone selection smart with prediction enabled",
-	  "Fixed killaura rotation randomization fucked up some hits & flagged sometimes for out of hitbox",
-	  "Fixed a potential crash issue when starting the client",
-	  "Fixed a random crash when using Lock-View aura",
-	  "Fixed bone selection smart causing some lags",
-	  "Recoded killaura rotations",
-	  "fixed autobans on most servers",
-	  "Updated hypixel speed for the latest watchdog",
-	  "Fixed autoarmor & InventoryTweaks fucked up together while using it at the same time"
+	  "Fixed gomme killaura",
+	  "Fixed some modules",
+	  "Removed old changelog", 
+	  "and more shit"
 	]
   },
 	{
