@@ -27,17 +27,17 @@ fly_Min Boost~1.8
 triggerbot_Min CPS~10.0
 killaura_Min CPS~16.0
 killaurarecode_Min CPS~8.0
-killaura_Pitch Strength %~75.0
+killaura_Pitch Strength %~70.0
 triggerbot_Range~3.3
 killaura_Range~3.0
 killaurarecode_Range~3.3
 sprint_Slider~4.5
 noslowdown_Speed~20.0
-killaura_Yaw Strength %~79.0
+killaura_Yaw Strength %~80.0
 killaura_AutoBlock Mode~Right click
 killaurarecode_AutoBlock Mode~Hypixel
 esp_ESP Mode~Shader
-speed_Mode~Matrix2
+speed_Mode~Intave
 velocity_Mode~Vanilla
 glide_Mode~Test
 fly_Mode~Cubecraft
@@ -47,5 +47,5 @@ highjump_Mode~Redesky
 longjump_Mode~Matrix
 killaura_Rotate Mode~VECTOR
 killaurarecode_Rotate Mode~VECTOR
-killaura_Target Mode~BESTHIT
+killaura_Target Mode~FOV
 killaurarecode_Target Mode~FOV
