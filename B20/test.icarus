@@ -1,1 +1,51 @@
-module:killaura:range:3.0
+triggerbot_Auto Block~true
+killaura_Auto Block~false
+killaurarecode_Auto Block~false
+killaura_Correct Movement~true
+killaurarecode_Correct Movement~true
+killaura_Fake Block~false
+killaurarecode_Fake Block~false
+noslowdown_Fix NCP~true
+antibot_Invalid Spawn Ping~true
+triggerbot_Render Particles~true
+killaura_Render Particles~true
+killaurarecode_Render Particles~true
+killaura_Smart Block~false
+killaurarecode_Smart Block~true
+fly_Acceleration~0.1
+cheststealer_Delay~81.0
+killaura_Hit Box Expand~0.0
+killaurarecode_Hit Box Expand~0.0
+triggerbot_Hit Slowdown (%)~40.0
+killaura_Hit Slowdown (%)~40.0
+killaurarecode_Hit Slowdown (%)~40.0
+fly_Max Boost~2.0
+triggerbot_Max CPS~10.0
+killaura_Max CPS~20.0
+killaurarecode_Max CPS~12.0
+fly_Min Boost~1.8
+triggerbot_Min CPS~10.0
+killaura_Min CPS~16.0
+killaurarecode_Min CPS~8.0
+killaura_Pitch Strength %~75.0
+triggerbot_Range~3.3
+killaura_Range~3.0
+killaurarecode_Range~3.3
+sprint_Slider~4.5
+noslowdown_Speed~20.0
+killaura_Yaw Strength %~79.0
+killaura_AutoBlock Mode~Right click
+killaurarecode_AutoBlock Mode~Hypixel
+esp_ESP Mode~Shader
+speed_Mode~Matrix2
+velocity_Mode~Vanilla
+glide_Mode~Test
+fly_Mode~Cubecraft
+phase_Mode~Matrix
+nofall_Mode~Redesky
+highjump_Mode~Redesky
+longjump_Mode~Matrix
+killaura_Rotate Mode~VECTOR
+killaurarecode_Rotate Mode~VECTOR
+killaura_Target Mode~BESTHIT
+killaurarecode_Target Mode~FOV
