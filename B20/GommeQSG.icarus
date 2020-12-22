@@ -1,51 +1,57 @@
+analysis_AccuratePitchAnalysis~true
+analysis_AccurateYawAnalysis~true
 triggerbot_Auto Block~true
-killaura_Auto Block~false
+killaura_Auto Block~true
 killaurarecode_Auto Block~false
 killaura_Correct Movement~true
 killaurarecode_Correct Movement~true
 killaura_Fake Block~false
 killaurarecode_Fake Block~false
 noslowdown_Fix NCP~true
+killaura_Flight attacks~false
 antibot_Invalid Spawn Ping~true
+killaura_Magic extra reach~false
+killaurarecode_Magic extra reach~true
 triggerbot_Render Particles~true
 killaura_Render Particles~true
 killaurarecode_Render Particles~true
 killaura_Smart Block~false
 killaurarecode_Smart Block~true
-fly_Acceleration~0.1
+flight_Acceleration~0.5
 cheststealer_Delay~81.0
 killaura_Hit Box Expand~0.0
 killaurarecode_Hit Box Expand~0.0
 triggerbot_Hit Slowdown (%)~40.0
 killaura_Hit Slowdown (%)~40.0
 killaurarecode_Hit Slowdown (%)~40.0
-fly_Max Boost~2.0
+flight_Max Boost~4.0
 triggerbot_Max CPS~10.0
-killaura_Max CPS~20.0
-killaurarecode_Max CPS~12.0
-fly_Min Boost~1.8
+killaura_Max CPS~2.0
+killaurarecode_Max CPS~20.0
+flight_Min Boost~4.0
 triggerbot_Min CPS~10.0
-killaura_Min CPS~16.0
-killaurarecode_Min CPS~8.0
-killaura_Pitch Strength %~70.0
+killaura_Min CPS~1.0
+killaurarecode_Min CPS~18.0
+killaura_Pitch Strength %~100.0
+killaurarecode_Pitch Strength %~90.0
 triggerbot_Range~3.3
-killaura_Range~3.0
-killaurarecode_Range~3.3
+killaura_Range~3.2
+killaurarecode_Range~3.0
 sprint_Slider~4.5
 noslowdown_Speed~20.0
-killaura_Yaw Strength %~80.0
-killaura_AutoBlock Mode~Right click
-killaurarecode_AutoBlock Mode~Hypixel
+killaura_Yaw Strength %~100.0
+killaurarecode_Yaw Strength %~90.0
+killaura_AutoBlock Mode~Intave
+killaurarecode_AutoBlock Mode~Intave
 esp_ESP Mode~Shader
 speed_Mode~Intave
-velocity_Mode~Vanilla
+velocity_Mode~Jump
 glide_Mode~Test
-fly_Mode~Cubecraft
+flight_Mode~Redesky2
 phase_Mode~Matrix
 nofall_Mode~Redesky
 highjump_Mode~Redesky
 longjump_Mode~Matrix
 killaura_Rotate Mode~VECTOR
-killaurarecode_Rotate Mode~VECTOR
 killaura_Target Mode~FOV
 killaurarecode_Target Mode~FOV
