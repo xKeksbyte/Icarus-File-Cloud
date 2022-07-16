@@ -1,4 +1,4 @@
-gomme
-cubecraft
+gomme (updated 16.07.2022)
+cubecraft 
 hypixel
-hypixeldev
+hypixeldev (updated 30.06.2022)
