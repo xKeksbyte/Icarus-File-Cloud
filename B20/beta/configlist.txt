@@ -1,4 +1,5 @@
 gommehard (can cause hitbugs, not properly tested yet)
 gommesafe (basically no hitbugs as far i know)
+gommesafe2 (i expect feedback, this is not properly tested)
 craftplaybw
 mineblaze
